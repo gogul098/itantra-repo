@@ -1,0 +1,11 @@
+R_DEF: Internal format may change without notice
+local
+id confidenceSeekBar
+id connectionText
+id logText
+id pttButton
+id sourceLangSpinner
+id statusText
+id targetLangSpinner
+layout activity_main
+string app_name
